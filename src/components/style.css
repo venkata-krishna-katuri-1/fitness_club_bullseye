@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  label {
+    margin-top: 1rem;
+  }
+  
+  input[type="submit"] {
+    margin-top: 1rem;
+    align-self: center;
+  }
+  
+  button {
+    margin-top: 1rem;
+    align-self: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 1rem;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  th {
+    background-color:#f4f4f4;
+  }
+.for-h1 {
+  background-color: white;
+}
+.for-h2 {
+  background-color: black;
+}
